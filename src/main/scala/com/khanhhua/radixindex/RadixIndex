@@ -1,0 +1,9 @@
+package scala.com.khanhhua.radixindex
+
+import java.io.{InputStream, OutputStream}
+
+class RadixIndexer(instream: InputStream, outstream: OutputStream) {
+  def run(): Unit = {
+
+  }
+}
