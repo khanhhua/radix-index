@@ -1,4 +1,4 @@
-package scala.com.khanhhua.radixindex
+package com.khanhhua.radixindex
 
 import java.io.{InputStream, OutputStream}
 
